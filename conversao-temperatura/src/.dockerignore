@@ -1,0 +1,2 @@
+# Diretório onde ficam os arquivos dos módulos. Não é necessário pois a imagem já utiliza o npm install.
+node_modules/
